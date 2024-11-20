@@ -35,5 +35,8 @@ Software:
 Development Environment:
    Localhost or any compatible database hosting platform.
 
-Contribution
+Contribution;
 Feel free to fork this repository and make contributions. Create a pull request to submit your updates or improvements.
+
+License;
+This project is licensed under the MIT License. See the LICENSE file for details.
